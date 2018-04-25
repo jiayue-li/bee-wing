@@ -1,3 +1,4 @@
+center_cell_area,center_cell_eccentricity,num_neighbors,average_area_neighbors,sd_neighbors,species
 8596,0.9237209856929806,3,6792.333333333333,2247.644742589204,Lasioglossum
 8468,0.9150280003347134,6,3788.0,1367.3746133862999,Lasioglossum
 11997,0.9023480358590871,2,8983.0,2055.0,Osmia
